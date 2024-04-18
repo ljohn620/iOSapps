@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "dieRed_border2.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
